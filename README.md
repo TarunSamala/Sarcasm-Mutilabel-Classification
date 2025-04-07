@@ -1,4 +1,4 @@
-# Sarcasm Detection in Tweets
+# Sarcasm-Aware MultiLabel Classification
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6%2B-orange)
@@ -42,4 +42,3 @@ Dataset columns:
 1. Clone the repository:
 ```bash
 git clone https://github.com/TarunSamala/Sarcasm-Mutilabel-Classification.git
-cd sarcasm-detection
